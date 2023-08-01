@@ -133,7 +133,7 @@ header .text .arrow .left:after, header .text .arrow .right:after, header .text 
     margin: auto;
 }
 .loader-wrap {
-    background-color: #a96700;
+    background-color: #1f1506;
     z-index: 30;
 }
 .loader-wrap.remove {
